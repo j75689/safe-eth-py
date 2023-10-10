@@ -17,6 +17,7 @@ safe_deployments = {
             "100": "0x29fcB43b46531BcA003ddC8FCB67FFE91900C762",
             "1442": "0x29fcB43b46531BcA003ddC8FCB67FFE91900C762",
             "80001": "0x29fcB43b46531BcA003ddC8FCB67FFE91900C762",
+            "5611": "0xc00bE0636b37669Fc7c377Dc2Cc4d511D3eeb202",
         },
         "MultiSend": {
             "1": "0x38869bf66a61cF6bDB996A6aE40D5853Fd43B526",
@@ -25,6 +26,7 @@ safe_deployments = {
             "100": "0x38869bf66a61cF6bDB996A6aE40D5853Fd43B526",
             "1442": "0x38869bf66a61cF6bDB996A6aE40D5853Fd43B526",
             "80001": "0x38869bf66a61cF6bDB996A6aE40D5853Fd43B526",
+            "5611": "0x7E1fd093A6f366d0A3227298B39dA6047c83F3c3",
         },
         "MultiSendCallOnly": {
             "1": "0x9641d764fc13c8B624c04430C7356C1C7C8102e2",
@@ -33,12 +35,14 @@ safe_deployments = {
             "100": "0x9641d764fc13c8B624c04430C7356C1C7C8102e2",
             "1442": "0x9641d764fc13c8B624c04430C7356C1C7C8102e2",
             "80001": "0x9641d764fc13c8B624c04430C7356C1C7C8102e2",
+            "5611": "0xDE37B68abdb04b4D364012133dAE5561382FFeCB",
         },
         "Safe": {
             "1": "0x41675C099F32341bf84BFc5382aF534df5C7461a",
             "100": "0x41675C099F32341bf84BFc5382aF534df5C7461a",
             "1442": "0x41675C099F32341bf84BFc5382aF534df5C7461a",
             "80001": "0x41675C099F32341bf84BFc5382aF534df5C7461a",
+            "5611": "0xB44637399b09C4056A14deF09fFc5a99A8E170E1",
         },
         "SimulateTxAccessor": {
             "1": "0x3d4BA2E0884aa488718476ca2FB8Efc291A46199",
@@ -47,6 +51,7 @@ safe_deployments = {
             "100": "0x3d4BA2E0884aa488718476ca2FB8Efc291A46199",
             "1442": "0x3d4BA2E0884aa488718476ca2FB8Efc291A46199",
             "80001": "0x3d4BA2E0884aa488718476ca2FB8Efc291A46199",
+            "5611": "0xE21845Eba6c8EC5E2B720a7677d3Bbf8799a380A",
         },
         "SafeProxyFactory": {
             "1": "0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67",
@@ -55,6 +60,7 @@ safe_deployments = {
             "100": "0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67",
             "1442": "0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67",
             "80001": "0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67",
+            "5611": "0x5541B6A4937Ee55907367D23530B322724606fE5",
         },
         "CreateCall": {
             "1": "0x9b35Af71d77eaf8d7e40252370304687390A1A52",
@@ -62,18 +68,21 @@ safe_deployments = {
             "56": "0x9b35Af71d77eaf8d7e40252370304687390A1A52",
             "100": "0x9b35Af71d77eaf8d7e40252370304687390A1A52",
             "80001": "0x9b35Af71d77eaf8d7e40252370304687390A1A52",
+            "5611": "0xBdBa0d50B2726E0F5886623d894a1346b226D5Df",
         },
         "CompatibilityFallbackHandler": {
             "1": "0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99",
             "100": "0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99",
             "1442": "0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99",
             "80001": "0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99",
+            "5611": "0x2Eb6da1d073c99289c24b34cEf42F2Ef059A6ed4",
         },
         "SignMessageLib": {
             "1": "0xd53cd0aB83D845Ac265BE939c57F53AD838012c9",
             "100": "0xd53cd0aB83D845Ac265BE939c57F53AD838012c9",
             "1442": "0xd53cd0aB83D845Ac265BE939c57F53AD838012c9",
             "80001": "0xd53cd0aB83D845Ac265BE939c57F53AD838012c9",
+            "5611": "0xBe4CCAb52dd45bD71c6446A3D2f09f9eADA47F47",
         },
     },
     "1.0.0": {
