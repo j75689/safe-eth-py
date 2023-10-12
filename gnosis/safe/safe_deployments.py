@@ -304,6 +304,7 @@ safe_deployments = {
             "1666700000": "0x998739BFdAAdde7C933B942a68053933098f9EDa",
             "11297108099": "0xA238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761",
             "11297108109": "0xA238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761",
+            "5611": "0xA238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761",
         },
         "MultiSendCallOnly": {
             "1": "0x40A2aCCbd92BCA938b02010E17A5b8929b49130D",
@@ -445,6 +446,7 @@ safe_deployments = {
             "1666700000": "0xA1dabEF33b3B82c7814B6D82A79e50F4AC44102B",
             "11297108099": "0x40A2aCCbd92BCA938b02010E17A5b8929b49130D",
             "11297108109": "0x40A2aCCbd92BCA938b02010E17A5b8929b49130D",
+            "5611": "0x40A2aCCbd92BCA938b02010E17A5b8929b49130D",
         },
         "SimulateTxAccessor": {
             "1": "0x59AD6735bCd8152B84860Cb256dD9e96b85F69Da",
@@ -586,6 +588,7 @@ safe_deployments = {
             "1666700000": "0x727a77a074D1E6c4530e814F89E618a3298FC044",
             "11297108099": "0x59AD6735bCd8152B84860Cb256dD9e96b85F69Da",
             "11297108109": "0x59AD6735bCd8152B84860Cb256dD9e96b85F69Da",
+            "5611": "0x59AD6735bCd8152B84860Cb256dD9e96b85F69Da",
         },
         "GnosisSafeL2": {
             "1": "0x3E5c63644E683549055b9Be8653de26E0B4CD36E",
@@ -727,6 +730,7 @@ safe_deployments = {
             "1666700000": "0xfb1bffC9d739B8D520DaF37dF666da4C687191EA",
             "11297108099": "0x3E5c63644E683549055b9Be8653de26E0B4CD36E",
             "11297108109": "0x3E5c63644E683549055b9Be8653de26E0B4CD36E",
+            "5611": "0x3E5c63644E683549055b9Be8653de26E0B4CD36E",
         },
         "GnosisSafe": {
             "1": "0xd9Db270c1B5E3Bd161E8c8503c55cEABeE709552",
@@ -868,6 +872,7 @@ safe_deployments = {
             "1666700000": "0x69f4D1788e39c87893C980c06EdF4b7f686e2938",
             "11297108099": "0xd9Db270c1B5E3Bd161E8c8503c55cEABeE709552",
             "11297108109": "0xd9Db270c1B5E3Bd161E8c8503c55cEABeE709552",
+            "5611": "0xd9Db270c1B5E3Bd161E8c8503c55cEABeE709552",
         },
         "GnosisSafeProxyFactory": {
             "1": "0xa6B71E26C5e0845f74c812102Ca7114b6a896AB2",
@@ -1009,6 +1014,7 @@ safe_deployments = {
             "1666700000": "0xC22834581EbC8527d974F8a1c97E1bEA4EF910BC",
             "11297108099": "0xa6B71E26C5e0845f74c812102Ca7114b6a896AB2",
             "11297108109": "0xa6B71E26C5e0845f74c812102Ca7114b6a896AB2",
+            "5611": "0xa6B71E26C5e0845f74c812102Ca7114b6a896AB2",
         },
         "CreateCall": {
             "1": "0x7cbB62EaA69F79e6873cD1ecB2392971036cFAa4",
@@ -1150,6 +1156,7 @@ safe_deployments = {
             "1666700000": "0xB19D6FFc2182150F8Eb585b79D4ABcd7C5640A9d",
             "11297108099": "0x7cbB62EaA69F79e6873cD1ecB2392971036cFAa4",
             "11297108109": "0x7cbB62EaA69F79e6873cD1ecB2392971036cFAa4",
+            "5611": "0x7cbB62EaA69F79e6873cD1ecB2392971036cFAa4",
         },
         "CompatibilityFallbackHandler": {
             "1": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",
@@ -1291,6 +1298,7 @@ safe_deployments = {
             "1666700000": "0x017062a1dE2FE6b99BE3d9d37841FeD19F573804",
             "11297108099": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",
             "11297108109": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",
+            "5611": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",
         },
         "SignMessageLib": {
             "1": "0xA65387F16B013cf2Af4605Ad8aA5ec25a2cbA3a2",
@@ -1431,6 +1439,7 @@ safe_deployments = {
             "1666700000": "0x98FFBBF51bb33A056B08ddf711f289936AafF717",
             "11297108099": "0xA65387F16B013cf2Af4605Ad8aA5ec25a2cbA3a2",
             "11297108109": "0xA65387F16B013cf2Af4605Ad8aA5ec25a2cbA3a2",
+            "5611": "0xA65387F16B013cf2Af4605Ad8aA5ec25a2cbA3a2",
         },
     },
 }
